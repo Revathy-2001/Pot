@@ -1,1 +1,1 @@
-# Pot
+![Pot](/pot.png)
